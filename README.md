@@ -1,8 +1,8 @@
 <a href="https://github.com/giosepeluiz/github-readme-stats">
-  <img align="center" height=170 src="https://github-readme-stats.vercel.app/api?username=giosepeluiz&show_icons=true&locale=pt-br&bg_color=1D1E21&title_color=FFAE34&border_color=FFAE34&text_color=FFFFFF&icon_color=EB0000" />
+  <img align="center" height=160 src="https://github-readme-stats.vercel.app/api?username=giosepeluiz&show_icons=true&locale=pt-br&bg_color=1D1E21&title_color=FFAE34&border_color=FFAE34&text_color=FFFFFF&icon_color=EB0000" />
 </a>
 <a href="https://github.com/giosepeluiz/convoychat">
-  <img align="center" height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=giosepeluiz&layout=compact&locale=pt-br&bg_color=1D1E21&border_color=FFAE34&title_color=FFAE34&text_color=FFFFFF&icon_color=EB0000" />
+  <img align="center" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=giosepeluiz&layout=compact&locale=pt-br&bg_color=1D1E21&border_color=FFAE34&title_color=FFAE34&text_color=FFFFFF&icon_color=EB0000" />
 </a>
 
 <br><br>
