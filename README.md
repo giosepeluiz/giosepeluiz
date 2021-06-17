@@ -57,15 +57,15 @@
   <img align="center" height=20 src="https://i.pinimg.com/originals/fc/d0/30/fcd0300deb4fd92735c20a6ea91ec1ca.png" />
 </a>
 ⠀
-<a href="https://facebook.com/giosepeluiz">
+<a href="https://facebook.com/giosepeluiz" target="_blank">
   <img align="center" height=40 src="https://image.flaticon.com/icons/png/512/1384/1384053.png" />
 </a>
 ⠀
-<a href="https://www.linkedin.com/in/giosepeluiz/">
+<a href="https://www.linkedin.com/in/giosepeluiz/" target="_blank">
   <img align="center" height=40 src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 ⠀
-<a href="https://www.reddit.com/u/giosepeluiz">
+<a href="https://www.reddit.com/u/giosepeluiz" target="_blank">
   <img align="center" height=40 src="https://image.flaticon.com/icons/png/512/1384/1384067.png" />
 </a>
 <br><br>
