@@ -8,27 +8,27 @@
 <br><br>
 
 <a href="https://github.com/giosepeluiz">
-  <img align="center" height=40 src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" />
+  <img align="center" height=30 src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" />
 </a>
 ⠀
 <a href="https://github.com/giosepeluiz">
-  <img align="center" height=40 src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" />
+  <img align="center" height=30 src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" />
 </a>
 ⠀
 <a href="https://github.com/giosepeluiz">
-  <img align="center" height=40 src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg" />
+  <img align="center" height=30 src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg" />
 </a>
 ⠀
 <a href="https://github.com/giosepeluiz">
-  <img align="center" height=40 src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg" />
+  <img align="center" height=30 src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg" />
 </a>
 ⠀
 <a href="https://github.com/giosepeluiz">
-  <img align="center" height=40 src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg" />
+  <img align="center" height=30 src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg" />
 </a>
 ⠀
 <a href="https://github.com/giosepeluiz">
-  <img align="center" height=40 src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg" />
+  <img align="center" height=30 src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg" />
 </a>
 ⠀
 <a href="https://github.com/giosepeluiz">
@@ -37,19 +37,19 @@
 </a>
 ⠀
 <a href="https://github.com/giosepeluiz">
-  <img align="center" height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
+  <img align="center" height=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
 </a>
 ⠀
 <a href="https://github.com/giosepeluiz">
-  <img align="center" height=40 src="https://raw.githubusercontent.com/microsoft/terminal/master/res/terminal.ico" />
+  <img align="center" height=30 src="https://raw.githubusercontent.com/microsoft/terminal/master/res/terminal.ico" />
 </a>
 ⠀
 <a href="https://github.com/giosepeluiz">
-  <img align="center" height=40 src="https://images.squarespace-cdn.com/content/v1/57d128aad482e9cbbd02db5e/1578046235797-MCP6KPOLLF8NQNX07DW1/ke17ZwdGBToddI8pDm48kISUb3EsU-0MjSEihYgifUFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEXiZB9OBSjUIbgh0g53R00w-JIArbwqKl5ni5feqAlPRur-lC0WofN0YB1wFg-ZW0/Affinity+Photo.png" />
+  <img align="center" height=30 src="https://images.squarespace-cdn.com/content/v1/57d128aad482e9cbbd02db5e/1578046235797-MCP6KPOLLF8NQNX07DW1/ke17ZwdGBToddI8pDm48kISUb3EsU-0MjSEihYgifUFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEXiZB9OBSjUIbgh0g53R00w-JIArbwqKl5ni5feqAlPRur-lC0WofN0YB1wFg-ZW0/Affinity+Photo.png" />
 </a>
 ⠀
 <a href="https://github.com/giosepeluiz">
-  <img align="center" height=40 src="https://images.squarespace-cdn.com/content/v1/57d128aad482e9cbbd02db5e/1578046235615-9XEWCKPYWGSQSDDDOLRW/ke17ZwdGBToddI8pDm48kISUb3EsU-0MjSEihYgifUFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEXiZB9OBSjUIbgh0g53R00w-JIArbwqKl5ni5feqAlPRur-lC0WofN0YB1wFg-ZW0/Affinity+Designer.png" />
+  <img align="center" height=30 src="https://images.squarespace-cdn.com/content/v1/57d128aad482e9cbbd02db5e/1578046235615-9XEWCKPYWGSQSDDDOLRW/ke17ZwdGBToddI8pDm48kISUb3EsU-0MjSEihYgifUFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEXiZB9OBSjUIbgh0g53R00w-JIArbwqKl5ni5feqAlPRur-lC0WofN0YB1wFg-ZW0/Affinity+Designer.png" />
 </a>
 ⠀
 <a href="https://github.com/giosepeluiz">
@@ -58,14 +58,14 @@
 </a>
 ⠀
 <a href="https://facebook.com/giosepeluiz" target="_blank">
-  <img align="center" height=40 src="https://image.flaticon.com/icons/png/512/1384/1384053.png" />
+  <img align="center" height=30 src="https://image.flaticon.com/icons/png/512/1384/1384053.png" />
 </a>
 ⠀
 <a href="https://www.linkedin.com/in/giosepeluiz/" target="_blank">
-  <img align="center" height=40 src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+  <img align="center" height=30 src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 ⠀
 <a href="https://www.reddit.com/u/giosepeluiz" target="_blank">
-  <img align="center" height=40 src="https://image.flaticon.com/icons/png/512/1384/1384067.png" />
+  <img align="center" height=30 src="https://image.flaticon.com/icons/png/512/1384/1384067.png" />
 </a>
 <br><br>
