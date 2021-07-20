@@ -34,6 +34,7 @@
 <a href="https://github.com/giosepeluiz">
   <img align="center" height=20 src="https://i.pinimg.com/originals/fc/d0/30/fcd0300deb4fd92735c20a6ea91ec1ca.png" />
   <img align="center" height=20 src="https://i.pinimg.com/originals/fc/d0/30/fcd0300deb4fd92735c20a6ea91ec1ca.png" />
+  <img align="center" height=20 src="https://i.pinimg.com/originals/fc/d0/30/fcd0300deb4fd92735c20a6ea91ec1ca.png" />
 </a>
 ⠀
 <a href="https://github.com/giosepeluiz">
@@ -53,6 +54,7 @@
 </a>
 ⠀
 <a href="https://github.com/giosepeluiz">
+  <img align="center" height=20 src="https://i.pinimg.com/originals/fc/d0/30/fcd0300deb4fd92735c20a6ea91ec1ca.png" />
   <img align="center" height=20 src="https://i.pinimg.com/originals/fc/d0/30/fcd0300deb4fd92735c20a6ea91ec1ca.png" />
   <img align="center" height=20 src="https://i.pinimg.com/originals/fc/d0/30/fcd0300deb4fd92735c20a6ea91ec1ca.png" />
 </a>
