@@ -1,7 +1,7 @@
 ## <div align="center">Boas vindas ao meu perfil!</div>
 
 ### <div align="center">🔥 Meu nome é Giosepe Luiz, mas pode me chamar de Arqueiro Verde. 🔥</div>
-
+<br />
 <p align="justify">⠀⠀⠀⠀Sou paranaense, moro em Curitiba desde que nasci, há 30 anos. Adoro tecnologia e programação, isso vem desde a época de colégio, embora eu tivesse feito um hiatus de uns 10 anos sem programar absolutamente nada, nesse tempo a área de desenvolvimento evoluiu muito.
 </p>
 <p align="justify">⠀⠀⠀⠀Na internet eu tive alguns projetos de sucesso, embora não tivesse lucrado com eles pois nunca foi meu interesse. Dentre eles tem o site/blog <b>Supernatural Brasil</b> que existiu lá por meados de 2009 e durou alguns anos, batia entre um e três milhões de visitas mensais, com uma equipe incrível ele era atualizado diariamente. Mais tarde lancei o projeto <b>Rust Brasil</b>, que também era um site com um blog, onde eu traduzia semanalmente as novidades do jogo Rust, foram mais de 200 textos traduzidos para nosso idioma durante sua vida, inclusive até fui reconhecido pela <b>Facepunch Studios</b>.
