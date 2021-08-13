@@ -56,9 +56,11 @@
   
   <div style="display: inline_block">
    <div align="center">
-    <a href="https://facebook.com/giosepeluiz" target="_blank"><img align="center" height="30" src="https://image.flaticon.com/icons/png/512/1384/1384053.png" /></a>⠀
+    <a href="https://facebook.com/giosepeluiz" target="_blank"><img align="center" height="30" src="https://image.flaticon.com/icons/png/512/174/174848.png" /></a>⠀
     <a href="https://www.linkedin.com/in/giosepeluiz/" target="_blank"><img align="center" height="30" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>⠀
-    <a href="https://www.reddit.com/u/giosepeluiz" target="_blank"><img align="center" height="30" src="https://image.flaticon.com/icons/png/512/1384/1384067.png" /></a>
+    <a href="https://www.reddit.com/u/giosepeluiz" target="_blank"><img align="center" height="30" src="https://image.flaticon.com/icons/png/512/2111/2111589.png" /></a>⠀
+     <a href="https://www.youtube.com/fiquenocontrolebr" target="_blank"><img align="center" height="30" src="https://i.ibb.co/CVvmZGF/116086295811fh3j6scpx.png" /></a>⠀
+     <a href="mailto:giosepe_luiz3@live.com" target="_blank"><img align="center" height="30" src="https://image.flaticon.com/icons/png/512/726/726623.png" /></a>
    </div>
   </div>
 <br />
