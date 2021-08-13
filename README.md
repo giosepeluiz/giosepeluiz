@@ -1,6 +1,6 @@
 ## <div align="center">Boas vindas ao meu perfil!</div>
 
-### <div align="center">Me chamo Giosepe Luiz, mas pode me chamar de Arqueiro Verde.</div>
+### <div align="center">🔥 Meu nome é Giosepe Luiz, mas pode me chamar de Arqueiro Verde. 🔥</div>
 
 <p align="justify">⠀⠀⠀⠀Sou paranaense, moro em Curitiba desde que nasci, há 30 anos. Adoro tecnologia e programação, isso vem desde a época de colégio, embora eu tivesse feito um hiatus de uns 10 anos sem programar absolutamente nada, nesse tempo a área de desenvolvimento evoluiu muito.
 </p>
