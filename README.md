@@ -57,7 +57,7 @@
   <div style="display: inline_block">
    <div align="center">
     <a href="https://facebook.com/giosepeluiz" target="_blank"><img align="center" height="30" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" /></a>⠀
-    <a href="https://www.linkedin.com/in/giosepeluiz/" target="_blank"><img align="center" height="30" src="[https://image.flaticon.com/icons/png/512/174/174857.png](https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png)" /></a>⠀
+    <a href="https://www.linkedin.com/in/giosepeluiz/" target="_blank"><img align="center" height="30" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" /></a>⠀
     <a href="https://www.reddit.com/u/giosepeluiz" target="_blank"><img align="center" height="30" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Reddit.png" /></a>⠀
      <a href="https://www.youtube.com/fiquenocontrolebr" target="_blank"><img align="center" height="30" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Youtube.png" /></a>⠀
      <a href="mailto:giosepe_luiz3@live.com" target="_blank"><img align="center" height="30" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Outlook.png" /></a>
