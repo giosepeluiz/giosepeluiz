@@ -6,7 +6,7 @@
 </p>
 <p align="justify">⠀⠀⠀⠀Na internet eu tive alguns projetos de sucesso, embora não tivesse lucrado com eles pois nunca foi meu interesse. Dentre eles tem o site/blog <b>Supernatural Brasil</b> que existiu lá por meados de 2009 e durou alguns anos, batia entre um e três milhões de visitas mensais, com uma equipe incrível ele era atualizado diariamente. Mais tarde lancei o projeto <b>Rust Brasil</b>, que também era um site com um blog, onde eu traduzia semanalmente as novidades do jogo Rust, foram mais de 200 textos traduzidos para nosso idioma durante sua vida, inclusive até fui reconhecido pela <b>Facepunch Studios</b>.
 </p>
-<p align="justify">⠀⠀⠀⠀Porém não fico só na área de desenvolvimento, sou formado em <b>Tecnologia de Segurança Pública</b> pela <b>Universidade Bras Cubas</b>, área que eu adoro, bem como sou graduando em Bacharelado de <b>Sistemas de Informação</b> pela <b>Universidade Anhembi Morumbi</b>. Nas minhas horas vagas eu adoro curtir uma jogatina, assistir séries e filmes.
+<p align="justify">⠀⠀⠀⠀Porém não fico só na área de desenvolvimento, sou formado em <b>Tecnologia de Segurança Pública</b> pela <b>Universidade Bras Cubas</b>, área que eu adoro, bem como sou graduando em <b>Engenharia de Softwares</b> pela <b>Universidade Positivo</b>. Nas minhas horas vagas eu adoro curtir uma jogatina, assistir séries e filmes.
 </p>
 <br />
 
