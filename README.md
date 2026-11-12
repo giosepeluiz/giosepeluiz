@@ -76,9 +76,9 @@ Porém não fico só na área de desenvolvimento: sou formado em <b>Tecnologia d
 
 <div align="center">
 
-<img height="52" alt="Visual Studio Code" title="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="52" alt="Affinity by Canva" title="Affinity by Canva" src="https://api.iconify.design/simple-icons/affinity.svg?color=%232BB673" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="52" alt="Claude Code" title="Claude Code" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claudecode-color.svg" />
+<img width="64" height="64" alt="Visual Studio Code" title="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="64" height="64" alt="Affinity by Canva" title="Affinity by Canva" src="https://api.iconify.design/simple-icons/affinity.svg?color=%232BB673" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="64" height="64" alt="Claude Code" title="Claude Code" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claudecode-color.svg" />
 
 <sub><b>Visual Studio Code</b> &nbsp;·&nbsp; <b>Affinity by Canva</b> &nbsp;·&nbsp; <b>Claude Code</b></sub>
 
@@ -90,11 +90,11 @@ Porém não fico só na área de desenvolvimento: sou formado em <b>Tecnologia d
 
 <div align="center">
 
-<a href="https://facebook.com/giosepeluiz" target="_blank"><img height="36" alt="Facebook" title="Facebook" src="https://api.iconify.design/simple-icons/facebook.svg?color=%233DDC84" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/giosepeluiz/" target="_blank"><img height="36" alt="LinkedIn" title="LinkedIn" src="https://api.iconify.design/simple-icons/linkedin.svg?color=%233DDC84" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.reddit.com/u/giosepeluiz" target="_blank"><img height="36" alt="Reddit" title="Reddit" src="https://api.iconify.design/simple-icons/reddit.svg?color=%233DDC84" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/fiquenocontrolebr" target="_blank"><img height="36" alt="YouTube – Fique no Controle" title="YouTube – Fique no Controle" src="https://api.iconify.design/simple-icons/youtube.svg?color=%233DDC84" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:giosepe_luiz3@live.com" target="_blank"><img height="36" alt="E-mail (Outlook)" title="E-mail (Outlook)" src="https://api.iconify.design/simple-icons/microsoftoutlook.svg?color=%233DDC84" /></a>
+<a href="https://facebook.com/giosepeluiz" target="_blank"><img width="44" height="44" alt="Facebook" title="Facebook" src="https://api.iconify.design/simple-icons/facebook.svg?color=%233DDC84" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/giosepeluiz/" target="_blank"><img width="44" height="44" alt="LinkedIn" title="LinkedIn" src="https://api.iconify.design/simple-icons/linkedin.svg?color=%233DDC84" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.reddit.com/u/giosepeluiz" target="_blank"><img width="44" height="44" alt="Reddit" title="Reddit" src="https://api.iconify.design/simple-icons/reddit.svg?color=%233DDC84" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/fiquenocontrolebr" target="_blank"><img width="44" height="44" alt="YouTube – Fique no Controle" title="YouTube – Fique no Controle" src="https://api.iconify.design/simple-icons/youtube.svg?color=%233DDC84" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:giosepe_luiz3@live.com" target="_blank"><img width="44" height="44" alt="E-mail (Outlook)" title="E-mail (Outlook)" src="https://api.iconify.design/simple-icons/microsoftoutlook.svg?color=%233DDC84" /></a>
 
 </div>
 
