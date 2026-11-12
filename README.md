@@ -38,8 +38,8 @@ Porém não fico só na área de desenvolvimento: sou formado em <b>Tecnologia d
 
 <div align="center">
 <a href="https://github.com/giosepeluiz">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=giosepeluiz&show_icons=true&locale=pt-br&theme=transparent&hide_border=true&title_color=3DDC84&text_color=C9D1D9&icon_color=3DDC84&ring_color=3DDC84" alt="Estatísticas do GitHub" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giosepeluiz&layout=compact&locale=pt-br&theme=transparent&hide_border=true&title_color=3DDC84&text_color=C9D1D9" alt="Linguagens mais usadas" />
+<img height="175" src="https://github-readme-stats-fast.vercel.app/api?username=giosepeluiz&show_icons=true&locale=pt-br&theme=transparent&hide_border=true&title_color=3DDC84&text_color=C9D1D9&icon_color=3DDC84&ring_color=3DDC84" alt="Estatísticas do GitHub" />
+<img height="175" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=giosepeluiz&layout=compact&locale=pt-br&theme=transparent&hide_border=true&title_color=3DDC84&text_color=C9D1D9" alt="Linguagens mais usadas" />
 </a>
 </div>
 
@@ -65,8 +65,8 @@ Porém não fico só na área de desenvolvimento: sou formado em <b>Tecnologia d
 <div align="center">
 
 <img height="48" alt="Visual Studio Code" title="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;
-<img height="48" alt="Affinity Photo" title="Affinity Photo" src="https://cdn.simpleicons.org/affinityphoto/7E4DD2" />&nbsp;&nbsp;
-<img height="48" alt="Affinity Designer" title="Affinity Designer" src="https://cdn.simpleicons.org/affinitydesigner/1B72BE" />&nbsp;&nbsp;
+<img height="40" alt="Affinity Photo" title="Affinity Photo" src="https://img.shields.io/badge/Affinity_Photo-7E4DD2?style=for-the-badge&logo=affinityphoto&logoColor=white" />&nbsp;&nbsp;
+<img height="40" alt="Affinity Designer" title="Affinity Designer" src="https://img.shields.io/badge/Affinity_Designer-1B72BE?style=for-the-badge&logo=affinitydesigner&logoColor=white" />&nbsp;&nbsp;
 <img height="48" alt="Figma" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
 </div>
