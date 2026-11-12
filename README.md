@@ -9,8 +9,12 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/Seguran%C3%A7a_P%C3%BAblica-Bras_Cubas-0F2A1A?style=for-the-badge" alt="Tecnologia de Segurança Pública" />
-<img src="https://img.shields.io/badge/Lisboa-Portugal-3DDC84?style=for-the-badge&labelColor=0F2A1A" alt="Lisboa, Portugal" />
+<img src="https://img.shields.io/badge/DESENVOLVIMENTO-1F7A3E?style=for-the-badge" alt="DESENVOLVIMENTO" />
+<img src="https://img.shields.io/badge/GAMING-1F7A3E?style=for-the-badge" alt="GAMING" />
+<img src="https://img.shields.io/badge/S%C3%89RIES-1F7A3E?style=for-the-badge" alt="SÉRIES" />
+<img src="https://img.shields.io/badge/FILMES-1F7A3E?style=for-the-badge" alt="FILMES" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/LISBOA-PORTUGAL-3DDC84?style=for-the-badge&labelColor=0F2A1A" alt="Lisboa, Portugal" />
 
 </div>
 
@@ -25,7 +29,15 @@ Sou paranaense e vivi em Curitiba por mais de 30 anos, mas atualmente moro em Li
 </p>
 
 <p align="justify">
-Na internet tive alguns projetos de sucesso, embora não tenha lucrado com eles, pois nunca foi meu interesse. Entre eles está o site/blog <b>Supernatural Brasil</b>, que existiu por volta de 2009 e durou alguns anos, chegando a bater entre um e três milhões de visitas mensais e sendo atualizado diariamente por uma equipe incrível. Mais tarde lancei o <b>Rust Brasil</b>, também um site com blog, onde eu traduzia semanalmente as novidades do jogo Rust. Foram mais de 200 textos traduzidos para o nosso idioma durante a vida do projeto, e cheguei a ser reconhecido pela <b>Facepunch Studios</b>.
+Na internet tive alguns projetos de sucesso, embora não tenha lucrado com eles, pois nunca foi meu interesse. Dois deles marcaram bastante a minha trajetória e, embora hoje já não existam mais, continuam sendo parte importante da minha história.
+</p>
+
+<p align="justify">
+🦇 <b>Supernatural Brasil</b> (supernaturalbrasil.org): um site/blog dedicado à série <i>Supernatural</i> (no Brasil, <i>Sobrenatural</i>), que estreou nos Estados Unidos em setembro de 2005 e acompanhou os irmãos Winchester por 15 temporadas. O projeto existiu por volta de 2009 e durou alguns anos, chegando a bater entre um e três milhões de visitas mensais. Era atualizado diariamente por uma equipe incrível, que fazia o conteúdo girar em torno da série e da comunidade de fãs.
+</p>
+
+<p align="justify">
+🛠️ <b>Rust Brasil</b> (playrustbr.com): também um site com blog, dedicado ao <i>Rust</i>, o jogo de sobrevivência multiplayer da Facepunch Studios, lançado oficialmente em fevereiro de 2018. Toda semana eu traduzia as novidades do jogo para o nosso idioma, e foram mais de 200 textos traduzidos durante a vida do projeto. Esse trabalho me rendeu até o reconhecimento da <b>Facepunch Studios</b>.
 </p>
 
 <p align="justify">
@@ -64,10 +76,11 @@ Porém não fico só na área de desenvolvimento: sou formado em <b>Tecnologia d
 
 <div align="center">
 
-<img height="48" alt="Visual Studio Code" title="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;
-<img height="40" alt="Affinity Photo" title="Affinity Photo" src="https://img.shields.io/badge/Affinity_Photo-7E4DD2?style=for-the-badge&logo=affinityphoto&logoColor=white" />&nbsp;&nbsp;
-<img height="40" alt="Affinity Designer" title="Affinity Designer" src="https://img.shields.io/badge/Affinity_Designer-1B72BE?style=for-the-badge&logo=affinitydesigner&logoColor=white" />&nbsp;&nbsp;
-<img height="48" alt="Figma" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img height="52" alt="Visual Studio Code" title="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="52" alt="Affinity by Canva" title="Affinity by Canva" src="https://api.iconify.design/simple-icons/affinity.svg?color=%232BB673" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="52" alt="Claude Code" title="Claude Code" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claudecode-color.svg" />
+
+<sub><b>Visual Studio Code</b> &nbsp;·&nbsp; <b>Affinity by Canva</b> &nbsp;·&nbsp; <b>Claude Code</b></sub>
 
 </div>
 
@@ -77,11 +90,11 @@ Porém não fico só na área de desenvolvimento: sou formado em <b>Tecnologia d
 
 <div align="center">
 
-<a href="https://facebook.com/giosepeluiz" target="_blank"><img height="44" alt="Facebook" title="Facebook" src="https://img.icons8.com/fluency/96/facebook-new.png" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/giosepeluiz/" target="_blank"><img height="44" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/fluency/96/linkedin.png" /></a>&nbsp;&nbsp;
-<a href="https://www.reddit.com/u/giosepeluiz" target="_blank"><img height="44" alt="Reddit" title="Reddit" src="https://img.icons8.com/fluency/96/reddit.png" /></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/fiquenocontrolebr" target="_blank"><img height="44" alt="YouTube" title="YouTube – Fique no Controle" src="https://img.icons8.com/fluency/96/youtube-play.png" /></a>&nbsp;&nbsp;
-<a href="mailto:giosepe_luiz3@live.com" target="_blank"><img height="44" alt="E-mail (Outlook)" title="E-mail" src="https://img.icons8.com/fluency/96/microsoft-outlook-2019.png" /></a>
+<a href="https://facebook.com/giosepeluiz" target="_blank"><img height="36" alt="Facebook" title="Facebook" src="https://api.iconify.design/simple-icons/facebook.svg?color=%233DDC84" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/giosepeluiz/" target="_blank"><img height="36" alt="LinkedIn" title="LinkedIn" src="https://api.iconify.design/simple-icons/linkedin.svg?color=%233DDC84" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.reddit.com/u/giosepeluiz" target="_blank"><img height="36" alt="Reddit" title="Reddit" src="https://api.iconify.design/simple-icons/reddit.svg?color=%233DDC84" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/fiquenocontrolebr" target="_blank"><img height="36" alt="YouTube – Fique no Controle" title="YouTube – Fique no Controle" src="https://api.iconify.design/simple-icons/youtube.svg?color=%233DDC84" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:giosepe_luiz3@live.com" target="_blank"><img height="36" alt="E-mail (Outlook)" title="E-mail (Outlook)" src="https://api.iconify.design/simple-icons/microsoftoutlook.svg?color=%233DDC84" /></a>
 
 </div>
 
