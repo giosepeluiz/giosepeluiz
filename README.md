@@ -9,10 +9,10 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/DESENVOLVIMENTO-1F7A3E?style=for-the-badge" alt="DESENVOLVIMENTO" />
-<img src="https://img.shields.io/badge/GAMING-1F7A3E?style=for-the-badge" alt="GAMING" />
-<img src="https://img.shields.io/badge/S%C3%89RIES-1F7A3E?style=for-the-badge" alt="SÉRIES" />
-<img src="https://img.shields.io/badge/FILMES-1F7A3E?style=for-the-badge" alt="FILMES" />
+<img src="https://img.shields.io/badge/DESENVOLVIMENTO-30363D?style=for-the-badge" alt="DESENVOLVIMENTO" />
+<img src="https://img.shields.io/badge/GAMING-30363D?style=for-the-badge" alt="GAMING" />
+<img src="https://img.shields.io/badge/S%C3%89RIES-30363D?style=for-the-badge" alt="SÉRIES" />
+<img src="https://img.shields.io/badge/FILMES-30363D?style=for-the-badge" alt="FILMES" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/LISBOA-PORTUGAL-3DDC84?style=for-the-badge&labelColor=0F2A1A" alt="Lisboa, Portugal" />
 
@@ -29,7 +29,7 @@ Sou paranaense e vivi em Curitiba por mais de 30 anos, mas atualmente moro em Li
 </p>
 
 <p align="justify">
-Na internet tive alguns projetos de sucesso, embora não tenha lucrado com eles, pois nunca foi meu interesse. Dois deles marcaram bastante a minha trajetória e, embora hoje já não existam mais, continuam sendo parte importante da minha história.
+Na internet tive alguns projetos de sucesso, embora não tenha lucrado com eles, pois nunca foi meu interesse. Três deles marcaram bastante a minha trajetória: os dois primeiros já foram encerrados e fazem parte da minha história, e o terceiro continua no ar, embora esteja parado há bastante tempo.
 </p>
 
 <p align="justify">
@@ -38,6 +38,18 @@ Na internet tive alguns projetos de sucesso, embora não tenha lucrado com eles,
 
 <p align="justify">
 🛠️ <b>Rust Brasil</b> (playrustbr.com): também um site com blog, dedicado ao <i>Rust</i>, o jogo de sobrevivência multiplayer da Facepunch Studios, lançado oficialmente em fevereiro de 2018. Toda semana eu traduzia as novidades do jogo para o nosso idioma, e foram mais de 200 textos traduzidos durante a vida do projeto. Esse trabalho me rendeu até o reconhecimento da <b>Facepunch Studios</b>.
+</p>
+
+<p align="justify">
+🎮 <b><a href="https://www.youtube.com/fiquenocontrolebr" target="_blank">Fique no Controle</a></b> (youtube.com/fiquenocontrolebr): meu canal de gameplays no YouTube, criado em outubro de 2017. A proposta sempre foi simples: jogar de tudo, desde aquele indie que ninguém conhece até os clássicos AAA, basicamente o que eu gosto e o que agrada ao público. Ao longo dos anos foram mais de 1.100 vídeos, quase 193 mil visualizações e pouco mais de mil inscritos.
+</p>
+
+<p align="justify">
+O canal ficou conhecido pelas séries jogadas do começo ao fim, em playlists organizadas por jogo: <b>Far Cry</b> (do primeiro ao Primal, passando pelo Blood Dragon, além do Far Cry 6), <b>Assassin's Creed</b> (do primeiro até o Black Flag, incluindo Brotherhood, Revelations e o III Remastered), <b>Grand Theft Auto</b> (III, Vice City e San Andreas), a trilogia <b>S.T.A.L.K.E.R.</b>, além de Mafia, Prince of Persia, Evil Dead Regeneration e James Cameron's Avatar. Também teve espaço para jogos em modo cooperativo com convidados (como Sea of Thieves e World War Z), vídeos "Conhecendo o jogo" com betas e demos da época (Fallout 76, The Division 2, The Crew 2, Resident Evil 2 Remake), e unboxings e reviews de periféricos como webcam, headset, microfone e cadeira gamer. Existe ainda a <a href="https://www.facebook.com/fiquenocontrole" target="_blank">página no Facebook</a>, que reúne cerca de 1,8 mil seguidores.
+</p>
+
+<p align="justify">
+Hoje o canal está parado: os últimos vídeos, da série de Far Cry 6, foram publicados há cerca de cinco anos. Mesmo assim, todo o acervo continua no ar para quem quiser (re)ver as jogatinas.
 </p>
 
 <p align="justify">
@@ -103,8 +115,18 @@ Porém não fico só na área de desenvolvimento: sou formado em <b>Tecnologia d
 ## 🎮 Comunidades
 
 <p align="center">
-Você pode me encontrar também nas páginas <a href="https://www.facebook.com/fiquenocontrole" target="_blank"><b>Fique no Controle</b></a> e <a href="https://www.facebook.com/familiaubisoft" target="_blank"><b>Família Ubisoft</b></a>, onde sou administrador, e nos grupos oficiais da Ubisoft, <a href="https://www.facebook.com/groups/farcrybrasil" target="_blank"><b>Far Cry Brasil</b></a> e <a href="https://www.facebook.com/groups/343130509179049" target="_blank"><b>Assassin's Creed Brasil</b></a>, onde sou moderador.
+Além dos meus próprios projetos, também ajudo a cuidar de comunidades de games no Facebook: administro a página do meu canal e sou moderador de dois grupos oficiais da Ubisoft Brasil, onde ajudo a manter o ambiente respeitoso e sem spoilers.
 </p>
+
+<div align="center">
+
+| Comunidade | Tipo | Meu papel |
+|:--|:--|:--|
+| 📺 [**Fique no Controle**](https://www.facebook.com/fiquenocontrole)<br /><sub>Página do canal, para quem ama jogos e consoles · cerca de 1,8 mil seguidores</sub> | Página no Facebook | Administrador |
+| 🌴 [**Far Cry Brasil (Oficial)**](https://www.facebook.com/groups/farcrybrasil)<br /><sub>Grupo oficial da Ubisoft Brasil para os fãs da série · mais de 23 mil membros</sub> | Grupo no Facebook | Moderador |
+| 🗡️ [**Assassin's Creed Brasil (Oficial)**](https://www.facebook.com/groups/343130509179049)<br /><sub>Grupo oficial da Ubisoft Brasil, com regras de respeito e sem spoilers · mais de 76 mil membros</sub> | Grupo no Facebook | Moderador |
+
+</div>
 
 <br />
 
